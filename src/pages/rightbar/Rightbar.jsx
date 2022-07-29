@@ -2,7 +2,7 @@ import "./rightbar.css"
 
  export default function RightBar(){
 return (
-    <div>
+    <div className="rightbar">
 rightbar
     </div>
 )
